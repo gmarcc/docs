@@ -3,7 +3,7 @@
 !!! info "PWM dimmer is supported in standard tasmota.bin"
       To enable PWM dimmer operation, select the PWM Dimmer module.
 
-PWM Dimmer module adds support PWM dimmer switches. The brightness of the load for these dimmers is controlled by a PWM GPIO pin. They typically have power, up and down buttons, a powered-on LED, five brightness LEDs and another status LED. Some of supported devices are switches model SD0x from Martin Jerry, Acenx, Tessan, NTONPOWER.  
+PWM Dimmer module adds support for PWM dimmer switches. The brightness of the load for these dimmers is controlled by a PWM GPIO pin. They typically have power, up and down buttons, a powered-on LED, five brightness LEDs and another status LED. Some of supported devices are switches model SD0x from Martin Jerry, Acenx, Tessan, NTONPOWER.  
 
 [![Martin Jerry](_media/pwmdimmer1.jpg)](https://www.amazon.com/dp/B07FXYSVR1)[![Acenx](_media/pwmdimmer2.jpg)](https://www.amazon.com/dp/B07V26Q3VD)[![Tessan](_media/pwmdimmer3.jpg)](https://www.amazon.com/dp/B07K67D43J)[![NTONPOWER](_media/pwmdimmer4.jpg)](https://www.amazon.com/dp/B07TTGFWFM)
 
